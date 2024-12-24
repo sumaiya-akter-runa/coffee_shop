@@ -41,7 +41,7 @@ https://youtu.be/mMeQhLGD-og?si=rXZQVFBjGOu12aM8
 
 After completing these steps, follow these steps to run the app:
 - Open Android Studio
-- Select project from version control (VCS) and paste the project URL: https://github.com/NoorMohammedAnik/car_workshop_app
+- Select project from version control (VCS) and paste the project URL: https://github.com/sumaiya-akter-runa/coffee_shop
 - Project will be imported into Android Studio
 - Finally, run the app on an emulator or a physical device
 
