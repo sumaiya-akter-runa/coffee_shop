@@ -72,7 +72,7 @@ class CartScreen extends StatelessWidget {
                             ),
                             Text(
                               '${item.quantity}',
-                              style: TextStyle(fontSize: 17),
+                              style: TextStyle(fontSize: 16),
                             ),
                             IconButton(
                               onPressed: () {
