@@ -7,7 +7,7 @@ Here is a quick look at the app's screenshots:
 ![images](assets/images/img.png)
 ![images](assets/images/img_1.png)
 ![images](assets/images/img_2.png)
-![images](assets/images/img_4.png)
+![images](assets/images/img_5.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
