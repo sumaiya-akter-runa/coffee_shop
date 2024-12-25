@@ -1,4 +1,4 @@
-import 'package:coffee_shop/splash_screen.dart';
+import 'package:coffee_shop/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

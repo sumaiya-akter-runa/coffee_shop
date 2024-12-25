@@ -1,9 +1,9 @@
-import 'package:coffee_shop/wishList_provider.dart';
+import 'package:coffee_shop/like_list/wishList_provider.dart';
 import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
 
-import 'item_detail_screen.dart';
+import '../home_page/item_detail_screen.dart';
 
 class WishListScreen extends StatelessWidget {
   const WishListScreen({super.key});

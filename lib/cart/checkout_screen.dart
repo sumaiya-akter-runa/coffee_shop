@@ -1,4 +1,4 @@
-import 'package:coffee_shop/success_screen.dart';
+import 'package:coffee_shop/cart/success_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

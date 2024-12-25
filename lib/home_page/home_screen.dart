@@ -1,11 +1,11 @@
-import 'package:coffee_shop/profile_screen.dart';
-import 'package:coffee_shop/wishList_provider.dart';
-import 'package:coffee_shop/wishlist_screen.dart';
+import 'package:coffee_shop/info/profile_screen.dart';
+import 'package:coffee_shop/like_list/wishList_provider.dart';
+import 'package:coffee_shop/like_list/wishlist_screen.dart';
 import 'package:flutter/material.dart';
 
 
 import 'package:provider/provider.dart';
-import 'cart_screen.dart';
+import '../cart/cart_screen.dart';
 import 'custom_bottom_navigation_bar.dart';
 import 'item_detail_screen.dart';
 

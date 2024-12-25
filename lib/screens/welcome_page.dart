@@ -1,6 +1,6 @@
 
-import 'package:coffee_shop/sign_in_page.dart';
-import 'package:coffee_shop/sign_up_page.dart';
+import 'package:coffee_shop/authentication/sign_in_page.dart';
+import 'package:coffee_shop/authentication/sign_up_page.dart';
 import 'package:flutter/material.dart';
 
 
