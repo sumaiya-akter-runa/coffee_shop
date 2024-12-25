@@ -4,10 +4,10 @@ A cross-platform mobile application for a Coffee shop where users can create boo
 ## App Screenshots
 
 Here is a quick look at the app's screenshots:
-![images](assets/images/img.jpg)
-![images](assets/images/img1.jpg)
-![images](assets/images/img2.jpg)
-![images](assets/images/img3.jpg)
+![images](assets/images/img.png)
+![images](assets/images/img_1.png)
+![images](assets/images/img2.png)
+![images](assets/images/img4.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
