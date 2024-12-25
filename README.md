@@ -14,7 +14,7 @@ This project is a starting point for a Flutter application.
 
 ## App Features
 - Splash screen
-- User authentication (using API)
+- User authentication (using Rest  API)
 - User registration
 - Admin dashboard with booking management
 - Admin can view all bookings
