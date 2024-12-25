@@ -33,7 +33,7 @@ class WelcomePage extends StatelessWidget {
                 "Welcome to Coffee Bliss",
                 style: TextStyle(
                   color: Colors.white,
-                  fontSize: 32,
+                  fontSize: 33,
                   fontWeight: FontWeight.bold,
                 ),
                 textAlign: TextAlign.center,
