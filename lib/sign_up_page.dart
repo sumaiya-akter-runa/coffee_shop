@@ -182,7 +182,7 @@ class _SignUpPageState extends State<SignUpPage> {
                               width: 50,
                             ),
                           ),
-                          SizedBox(width: 20),
+                          SizedBox(width: 21),
 
                           // Instagram Button
                           GestureDetector(
