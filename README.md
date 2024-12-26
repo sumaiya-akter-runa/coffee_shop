@@ -1,5 +1,5 @@
 # coffee_shop
-A cross-platform mobile application for a Coffee shop where users can create bookings for coffee  and make payment .
+A cross-platform mobile application for a Coffee shop where users can create bookings for coffee  and make payment
 
 ## App Screenshots
 
