@@ -1,5 +1,5 @@
 # coffee_shop
-A cross-platform mobile application for a Coffee shop where users can create bookings for coffee  and payment .
+A cross-platform mobile application for a Coffee shop where users can create bookings for coffee  and make payment .
 
 ## App Screenshots
 
@@ -14,8 +14,9 @@ This project is a starting point for a Flutter application.
 
 ## App Features
 - Splash screen
-- User authentication (using Rest  API)
+- User authentication (using Firebase)
 - User registration
+- Admin registration
 - Admin dashboard with booking management
 - Admin can view all bookings
 - user can book coffee
@@ -46,7 +47,6 @@ After completing these steps, follow these steps to run the app:
 - Finally, run the app on an emulator or a physical device
 
 
-
 ## Packages Used in This Project
 
 ### **Core Dependencies**
@@ -61,12 +61,25 @@ After completing these steps, follow these steps to run the app:
 ### **Icons and UI**
 - [flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons) Simplifies the process of configuring app launcher icons for Android and iOS.
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons) Provides a collection of iOS-style icons.
+- [google_fonts](https://pub.dev/packages/google_fonts) Allows easy use of Google Fonts to customize typography in Flutter apps.
+- [fluttertoast](https://pub.dev/packages/fluttertoast) A package for displaying toast messages in Flutter.
+
+### **Firebase and Authentication**
+- [firebase_core](https://pub.dev/packages/firebase_core) Initializes Firebase in a Flutter app, required for Firebase services.
+- [firebase_database](https://pub.dev/packages/firebase_database) Provides access to Firebase Realtime Database for syncing data.
+- [firebase_auth](https://pub.dev/packages/firebase_auth) A package for handling Firebase authentication (email/password, Google, Facebook, etc.).
+
+### **Social Media Authentication**
+- [google_sign_in](https://pub.dev/packages/google_sign_in) Enables Google Sign-In for authenticating users via Google accounts.
+- [flutter_facebook_auth](https://pub.dev/packages/flutter_facebook_auth) Handles Facebook authentication in Flutter apps.
+
+### **Web and URL Handling**
+- [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview) A package for displaying web content inside your app using a WebView. Useful for OAuth login (e.g., Instagram).
+- [url_launcher](https://pub.dev/packages/url_launcher) A package for launching URLs, including opening web pages, making calls, and sending SMS or emails.
 
 ### **Development Dependencies**
 - [flutter_test](https://docs.flutter.dev/cookbook/testing) A testing framework for writing unit, widget, and integration tests in Flutter.
-- [flutter_lints](https://pub.dev/packages/flutter_lints)   Enforces recommended linting rules for clean and consistent code.
-
----
+- [flutter_lints](https://pub.dev/packages/flutter_lints) Enforces recommended linting rules to maintain clean and consistent code in Flutter projects.
 
 ### **Icon Configuration**
 The project includes a custom app launcher icon:
@@ -75,6 +88,6 @@ The project includes a custom app launcher icon:
 
 ## Image Resources
 - [FlatIcons](https://www.flaticon.com/)   A platform offering free icons and stickers designed for projects, created by and for designers.
-
+- [Pexels](https://www.pexels.com/) A free stock photo website that offers high-quality and free-to-use images for both personal and commercial projects.
 - [Vecteezy](https://www.vecteezy.com/)   A rich resource for free vector art, illustrations, and icons, perfect for enhancing design elements.
 

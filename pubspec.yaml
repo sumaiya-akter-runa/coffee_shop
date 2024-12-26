@@ -17,14 +17,20 @@ dependencies:
   provider: ^6.1.2
   shared_preferences: ^2.0.18
   image_picker: ^1.1.2
-  image_cropper: ^3.0.0
+
   flutter_launcher_icons: ^0.13.1
   cupertino_icons: ^1.0.8
   google_fonts: ^6.2.1
   fluttertoast: ^8.2.8
-  get: ^4.6.6
-  get_storage: ^2.1.1
-  http: ^1.2.2
+  firebase_core: ^3.8.0
+  firebase_database: ^11.1.6
+  flutter_inappwebview: ^5.7.2
+  firebase_auth: ^4.4.2
+  google_sign_in: ^6.1.0
+  flutter_facebook_auth: ^5.0.6
+  url_launcher: ^6.1.10
+
+
 
 
 
