@@ -50,7 +50,6 @@ After completing these steps, follow these steps to run the app:
 ## Packages Used in This Project
 
 ### **Core Dependencies**
-- [http](https://pub.dev/packages/http) A composable, Future-based library for making HTTP requests.
 - [provider](https://pub.dev/packages/provider) A state management library that allows dependency injection and state sharing between widgets.
 - [shared_preferences](https://pub.dev/packages/shared_preferences) Provides persistent storage for simple data like user preferences and settings.
 
