@@ -205,7 +205,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
 
   Widget buildEditableField(String label, TextEditingController controller) {
     return Container(
-      padding: EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+      padding: EdgeInsets.symmetric(horizontal: 13, vertical: 8),
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(12),
