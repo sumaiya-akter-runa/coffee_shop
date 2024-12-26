@@ -19,8 +19,8 @@ This project is a starting point for a Flutter application.
 - Admin registration
 - Admin dashboard with booking management
 - Admin can view all bookings
-- user can book coffee
-- user make payment
+- User can book coffee
+- User make payment
 
 ## How to Run the App
 
