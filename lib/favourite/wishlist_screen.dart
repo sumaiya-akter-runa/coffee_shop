@@ -1,4 +1,5 @@
-import 'package:coffee_shop/like_list/wishList_provider.dart';
+
+import 'package:coffee_shop/favourite/wishList_provider.dart';
 import 'package:flutter/material.dart';
 
 import 'package:provider/provider.dart';
